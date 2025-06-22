@@ -2,7 +2,7 @@
 //  Wii‑Tetris – ESP32 + MAX7219 (32 × 8)                                         
 //  ✔ Flicker‑free  ✔ Correct controls  ✔ Start/Restart with PLUS                
 //  ✔ Hard‑drop on Wiimote “2”  ✔ Score rotated for portrait display             
-//  © 2025 – CC0                                                                  
+//  © 2025 – CC0  -- Code written by ChatGPT                                                              
 // ============================================================================
 
 enum PieceType { I, J, L, O, S, T, Z, PIECE_COUNT };
